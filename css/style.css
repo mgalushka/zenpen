@@ -49,22 +49,23 @@ body {
 }
 
 section {
-	max-width: 600px;
+	max-width: 150px;/*600px;*/
 	height: 100%;
 	margin: auto;
+	float: right;
 }
 
 header {
 	font-weight: bold;
-	font-size: 38px;
+	font-size: 15px;/*38px*/;
 }
 
 article {
 	padding-bottom: 50px;
-	line-height: 30px;
+	line-height: 17px;/*30px;*/
 	margin-top: 22px;
 	min-height: 90%;
-	font-size: 22px;
+	font-size: 12px;/*22px;*/
 	display: block;
 }
 
@@ -133,12 +134,12 @@ blockquote {
 	font-family: inherit;
 	background: none;
 	cursor: pointer;
-	font-size: 25px;
+	font-size: 15px;/*25px;*/
 	color: inherit;
 	opacity: 0.1;
 	padding: 0px;
-	height: 32px;
-	width: 25px;
+	height: 22px; /*32px;*/
+	width: 15px;/*25px;*/
 	border: 0px;
 }
 
