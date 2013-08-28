@@ -49,7 +49,7 @@ body {
 }
 
 section {
-	max-width: 150px;/*600px;*/
+	max-width: 15%;/*600px;*/
 	height: 100%;
 	margin: auto;
 	float: right;
@@ -65,7 +65,7 @@ article {
 	line-height: 17px;/*30px;*/
 	margin-top: 22px;
 	min-height: 90%;
-	font-size: 12px;/*22px;*/
+	font-size: 15px;/*22px;*/
 	display: block;
 }
 
